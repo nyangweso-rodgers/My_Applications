@@ -1,4 +1,4 @@
-# WHAT IS AN API (Application Programming Interface)
+# API (Application Programming Interface)
 
 An **application programming interface** (API) is a _computing interface which defines interactions between multiple software intermediaries_. It defines:
 
@@ -82,7 +82,7 @@ Authentication|Who is calling the API and what credentials they have
 
 ## List of various APIs
 1. __PlaceGOAT API__: This is a very silly API that returns _images of goats_ (https://placegoat.com/) in different sizes that you can use as placeholder images in your website.
-2. 
+2. __api-football__: https://www.api-football.com/documentation-v3#section/Sample-Scripts/Php
 
 ## References
 
