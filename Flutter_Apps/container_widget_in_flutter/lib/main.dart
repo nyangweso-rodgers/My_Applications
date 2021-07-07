@@ -12,7 +12,7 @@ void main() {
     // This widget will be used as the layout.
     // We will give it a Container widget this time.
     Container(
-      color: Colors.green, // <- you can change this
+      color: Colors.redAccent// <- you can change this
     ),
   );
 }

@@ -1,4 +1,4 @@
-# Flutter
+# Buidling Applications using Flutter
 __Flutter__ is __Google’s UI toolkit__ for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. __Flutter__ relies on the __dart__ programming language and uses a compiler for natively building applications for the various target platforms.
 
 ## Advantages of using Flutter
@@ -32,6 +32,12 @@ http://pub.dartlang.org
 * Widget Test
 * Integration Test
 
+## App Version
+Versioning is a critical component of your app upgrade and maintenance strategy
+### Importance of App Versioning
+- Users need to have specific information about the app version that is installed on their devices and the upgrade versions available for installation.
+- Other apps — including other apps that you publish as a suite — need to query the system for your app's version, to determine compatibility and identify dependencies.
+- Services through which you will publish your app(s) may also need to query your app for its version, so that they can display the version to users. A publishing service may also need to check the app version to determine compatibility and establish upgrade/downgrade relationships.
 
 ### Publishing Your App
 https://flutter.dev/docs/deployment/android
